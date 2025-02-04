@@ -28,7 +28,7 @@ def get_areas_of_improvement(user_input_string):
                     "    {\n"
                     "      \"title\": \"<Catchy title of improvement>\",\n"
                     "      \"suggestion\": \"<Catchy, short, and realistic explanation of the improvment>\"\n"
-                    "    },\n", 
+                    "    },\n" 
                     "    {\n"
                     "      \"title\": \"<Catchy title of improvement>\",\n"
                     "      \"suggestion\": \"<Catchy, short, and realistic explanation of the improvment>\"\n"
