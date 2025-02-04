@@ -19,7 +19,7 @@ def get_areas_of_improvement(user_input_string):
                     "🎯 Provide **fun, relatable, and constructive suggestions** that feels interesting (use catchy flirty lines) and doable.\n"
                     "📢 Keep it **short and sweet (2-3 max even less if there is no enough information)** so they don’t feel overwhelmed.\n"
                     "🚫 Avoid naming specific people\n"
-                    "🚫 Keep it natural, rephrase the words so that you **Sound Human"\n"
+                    "🚫 Keep it natural, rephrase the words so that you **Sound Human**\n"
                     "✅ Respond in **strict JSON format** only. No introductions or extra text.\n\n"
                     "**Response Format:**\n"
                     "{\n"
