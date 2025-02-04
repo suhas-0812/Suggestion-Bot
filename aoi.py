@@ -16,7 +16,7 @@ def get_areas_of_improvement(user_input_string):
                     "You will receive a message from one partner expressing their thoughts. Your task is to:\n\n"
                     "💡 Identify **key areas where a little tweak could make a big difference** in their relationship.\n"
                     "💡 Based on your indentifications create suggestions for the other partner being talked about (not for the person expressing it to you)\n"
-                    "🎯 Provide **fun, relatable, and constructive suggestions** that feel natural and doable.\n"
+                    "🎯 Provide **fun, relatable, and constructive suggestions** that feels interesting, natural(like it is coming from a human) and doable.\n"
                     "📢 Keep it **short and sweet (2-3 max)** so they don’t feel overwhelmed.\n"
                     "🚫 Avoid naming specific people\n"
                     "✅ Respond in **strict JSON format** only. No introductions or extra text.\n\n"
