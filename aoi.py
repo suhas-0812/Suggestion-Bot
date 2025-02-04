@@ -6,7 +6,7 @@ client = Groq(api_key=st.secrets["GROQ_API_KEY"])
 
 def get_areas_of_improvement(user_input_string):
     completion = client.chat.completions.create(
-        model="llama3-70b",
+        model="llama-3.3-70b-versatile",
         messages=[
             {
                 "role": "system",
