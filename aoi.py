@@ -20,7 +20,7 @@ def get_areas_of_improvement(user_input_string):
                     "📢 Keep it **short and sweet (2-3 max even less if there is no enough information)** so P2 doesn’t feel overwhelmed.\n"
                     "🚫 Avoid naming specific people\n"
                     "Keep it natural, rephrase the words so that you **Sound Human**\n"
-                    " **MOST IMPORTANTLY** Make sure that you are creating suggestions for P1 and P2. Recheck it 2 times\n"
+                    " **MOST IMPORTANTLY** Make sure that you are creating suggestions for P1 and  **not P2**. Recheck it 2 times\n"
                     "Keep your words as catchy and interesting to read as possible\n"
                     "✅ Respond in **strict JSON format** only. No introductions or extra text.\n\n"
                     "**Response Format:**\n"
