@@ -2,7 +2,7 @@ from groq import Groq
 import json
 import streamlit as st
 
-client = Groq(st.secrets["GROQ_API_KEY"])
+client = Groq(api_key=st.secrets["GROQ_API_KEY"])
 
 def get_areas_of_improvement(user_input_string):
     completion = client.chat.completions.create(
