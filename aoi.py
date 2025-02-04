@@ -44,7 +44,7 @@ def get_areas_of_improvement(user_input_string):
                 "content": user_input_string
             }
         ],
-        temperature=0.6,  # Slightly higher for a more creative response
+        temperature=1,  # Slightly higher for a more creative response
         max_tokens=300,
         top_p=1
     )
